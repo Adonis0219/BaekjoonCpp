@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="입출력과 사칙연산/입출력과 사칙연산.vcxproj" />
+  <Project Path="입출력과 사칙연산/입출력과 사칙연산.vcxproj" Id="e64c5d9d-ca8b-4ffb-a131-24aa2b538552" />
 </Solution>
