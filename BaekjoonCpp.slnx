@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="입출력과 사칙연산/입출력과 사칙연산.vcxproj" />
+</Solution>
