@@ -30,5 +30,11 @@
     <ClCompile Include="1008 AdivB.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="사칙연산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10926 QQE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
