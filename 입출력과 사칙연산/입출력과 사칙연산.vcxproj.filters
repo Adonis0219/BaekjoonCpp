@@ -30,10 +30,19 @@
     <ClCompile Include="1008 AdivB.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="사칙연산.cpp">
+    <ClCompile Include="10869 사칙연산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="10926 QQE.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18108 TaiYears.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10430 Remainder.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2588 Muliple.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
