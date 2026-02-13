@@ -45,5 +45,14 @@
     <ClCompile Include="2588 Muliple.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11382 LittleJM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10171 Cat.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10172 Dog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
