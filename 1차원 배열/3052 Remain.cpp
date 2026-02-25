@@ -18,7 +18,7 @@ int main() {
 		scanf_s("%d", &a);
 
 		remains[a % 42]++;
-	}
+	} 
 
 	// 출력하기
 	for (int i = 0; i < 42; i++)

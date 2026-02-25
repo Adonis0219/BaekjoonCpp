@@ -39,5 +39,14 @@
     <ClCompile Include="3052 Remain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10811 Reverse Basket.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1546 Average.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
