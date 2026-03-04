@@ -39,5 +39,11 @@
     <ClCompile Include="1152 Num of Words.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2908 Sangsoo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5622 Dail.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
