@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3003 킹 퀸 룩 비숍.cpp">
+    <ClCompile Include="2444 별 찍기 - 7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\문자열\25083 새싹.cpp">
+    <ClCompile Include="25083 새싹.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3003 킹 퀸 룩 비숍.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
