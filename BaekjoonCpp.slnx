@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="1차원 배열/1차원 배열.vcxproj" Id="88b380a4-20e6-447f-a3a9-c5693c72b848" />
+  <Project Path="2차원 배열/2차원 배열.vcxproj" Id="7f1d2ffc-c2cf-4b6a-ad7a-52efe4a1158c" />
   <Project Path="문자열/문자열.vcxproj" Id="8b76b25c-289b-4e93-8f54-dc160497fe37" />
   <Project Path="반복문/반복문.vcxproj" Id="669af167-afd7-4277-baa0-91a6606cdf36" />
   <Project Path="심화 1/심화 1.vcxproj" Id="9e884db2-e916-4c05-bf88-b055de523414" />
