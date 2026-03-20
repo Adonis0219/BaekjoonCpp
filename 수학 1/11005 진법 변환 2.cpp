@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-	char ans[1001] = { 0 };
+	char ans[1001] = {};
 	int N, B;
 	int input, cnt = 0;
 
@@ -13,17 +13,14 @@ int main() {
 		// 숫자라면
 		if (input < 10)
 			ans[cnt++] = input + 48;
-		// 문자라면
 		else
 			ans[cnt++] = input + 55;
 
 		i /= B;
 	}
 
-	for (int i = cnt - 1; i >= 0; i--)
-	{
-		printf("%c", ans[i]);
-	}
+	for (int i = cnt - 1; i >= 0; i--)	
+		printf("%c", ans[i]);	
 
 	return 0;
 }
