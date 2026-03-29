@@ -7,10 +7,8 @@ int main()
 
 	scanf_s("%d", &n);
 
-	while (n--)
-	{
+	while (n--) 
 		dot = dot * 2 - 1;
-	}
 
 	printf("%d", dot * dot);
 
@@ -28,11 +26,9 @@ int main() {
 	cin >> n;
 
 	while (n--)
-	{
 		dot = dot * 2 - 1;
-	}
 	
 	cout << dot * dot;
 
-	return 0;
+	return 0; 
 }
