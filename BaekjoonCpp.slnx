@@ -9,6 +9,7 @@
   <Project Path="반복문/반복문.vcxproj" Id="669af167-afd7-4277-baa0-91a6606cdf36" />
   <Project Path="수학 1/수학 1.vcxproj" Id="f5efea62-359b-4fe8-b056-290d727ec15d" />
   <Project Path="심화 1/심화 1.vcxproj" Id="9e884db2-e916-4c05-bf88-b055de523414" />
+  <Project Path="약수, 배수와 소수 1/약수, 배수와 소수 1.vcxproj" Id="9b5d6701-877c-4972-be4d-0db322a33afe" />
   <Project Path="입출력과 사칙연산/입출력과 사칙연산.vcxproj" Id="e64c5d9d-ca8b-4ffb-a131-24aa2b538552" />
   <Project Path="조건문/조건문.vcxproj" Id="998c85d6-fcbe-40c4-ba75-6645507ee499" />
 </Solution>
