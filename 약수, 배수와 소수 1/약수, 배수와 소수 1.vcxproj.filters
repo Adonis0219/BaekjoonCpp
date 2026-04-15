@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="배수와 약수.cpp">
+    <ClCompile Include="5086 배수와 약수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
